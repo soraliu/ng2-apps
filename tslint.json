@@ -1,4 +1,5 @@
 {
+  "extends": "./tsconfig.ng.json",
   "rulesDirectory": ["node_modules/@nrwl/schematics/src/tslint"],
   "rules": {
     "arrow-return-shorthand": true,
